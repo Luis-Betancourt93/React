@@ -1,17 +1,11 @@
 
 import './App.css'
+import Profile from './Profile'
 
 function App() {
-  
-
   return (
-    <>
-     <img
-      src="https://i.imgur.com/MK3eW3Am.jpg"
-      alt="Katherine Johnson"
-    />
-    </>
+    <Profile />
   )
 }
 
-export default App
+export default App;
