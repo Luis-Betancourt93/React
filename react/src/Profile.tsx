@@ -1,8 +1,8 @@
-export default function Profile() {
+export function Profile() {
   return (
     <div>
       <img
-      src="https://i.imgur.com/5ubpMvf.jpeg"
+      src="https://i.imgur.com/MK3eW3Am.jpg"
       alt="Katherine Johnson"
     />
     <h1>
@@ -10,5 +10,5 @@ export default function Profile() {
     </h1>
     </div>
     
-  )
+  ) 
 }
